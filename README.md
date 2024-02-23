@@ -1,5 +1,5 @@
 # Counterfactual Watch Model (CWM)
-The source code of  ``Counteracting Duration Bias in Video Recommendation via Counterfactual Watch Time''
+The source code and datasets of  ``Counteracting Duration Bias in Video Recommendation via Counterfactual Watch Time''
 
 # Contents
 - [Contents](#contents)
@@ -16,8 +16,8 @@ In this study, we aim to counteract the duration bias in video recommendation. W
 
 # [Dataset](#contents)
 
-- [KuaiRand-Pure](https://drive.google.com/drive/folders/1YL2lqSlSPuJb2H02PQTDqXcO0riZ2jv7)
-- [WeChat](https://drive.google.com/drive/folders/1YL2lqSlSPuJb2H02PQTDqXcO0riZ2jv7)
+- [KuaiRand-Pure]
+- [WeChat]
 
 
 # [Environment Requirements](#contents)
