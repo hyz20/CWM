@@ -16,8 +16,8 @@ In this study, we aim to counteract the duration bias in video recommendation. W
 
 # [Dataset](#contents)
 
-- [KuaiRand-Pure]
-- [WeChat]
+- [KuaiRand-Pure](https://drive.google.com/file/d/1SHlXpeGnPWD4K88-yfwtZ4LitB7pk34Q/view?usp=sharing)
+- [WeChat](https://drive.google.com/file/d/1A59caEs70M6KjAYDdR-SKZwhNZLp3W3C/view?usp=drive_link)
 
 
 # [Environment Requirements](#contents)
